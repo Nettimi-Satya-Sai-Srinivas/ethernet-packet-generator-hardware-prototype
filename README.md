@@ -7,7 +7,9 @@ This project comprises:
 - a ethernet packet generator, i.e., epg.v, design source
 - a testbench source, i.e., design_1_wrapper_tb.v
 
-A block design environment has been created, wherein the epg module is included along with few inbuit Xilinx IPs namely, FIFO generator and utility vector logic, as illustrated in the . The 
+A block design environment has been created, wherein the epg module is included along with few inbuit Xilinx IPs namely, FIFO generator and utility vector logic, as illustrated in the Block Design.pdf file. A top hdl wrapper has been generated for the block design, and simulated using design_1_wrapper_tb.v testbench.
+
+The FIFO is configured to prestore the data required for frame generation.
 
 To know about the ethernet frame structure, kindly refer the following youtube video:
 
