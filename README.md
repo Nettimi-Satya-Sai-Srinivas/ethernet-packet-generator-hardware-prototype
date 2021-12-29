@@ -6,3 +6,7 @@ The objective of this project is to develop a custom hardware for a basic ethern
 This project comprises:
 - a design source
 - a testbench source
+
+To know about the ethernet frame structure, kindly refer the following youtube video:
+
+https://www.youtube.com/watch?v=2qvwuxuZPN8
