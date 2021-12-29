@@ -5,7 +5,9 @@ The objective of this project is to develop a custom hardware for a basic ethern
 
 This project comprises:
 - a ethernet packet generator, i.e., epg.v, design source
-- a testbench source, i.e., 
+- a testbench source, i.e., design_1_wrapper_tb.v
+
+A block design environment has been created, wherein the epg module is included along with Xilinx IPs namely, FIFO and vector 
 
 To know about the ethernet frame structure, kindly refer the following youtube video:
 
